@@ -1,6 +1,7 @@
 # Ignore .NET build artifacts
 bin/
 obj/
+obj/*
 
 # User-specific files
 *.user
