@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oeoQsgzoaq8=",
+  "dgSpecHash": "10vRs7Hd/3s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\prana\\OneDrive\\Pranaav\\WebDev\\ASP.NET\\Coursera\\ConsoleApp\\ConsoleApp.csproj",
+  "projectFilePath": "C:\\Users\\prana\\OneDrive\\Pranaav\\WebDev\\ASP.NET\\Coursera\\Console App\\ConsoleApp\\ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\prana\\.nuget\\packages\\pastel\\6.0.1\\pastel.6.0.1.nupkg.sha512"
   ],
