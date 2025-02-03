@@ -1,10 +1,14 @@
 # Ignore .NET build artifacts
-bin/
 obj
+obj/
 *./obj/
 *../obj/*
-obj/
+bin
+bin/
+*./bin/
+*../bin/
 # ConsoleApp/obj/
+# ConsoleApp/bin/
 
 # User-specific files
 *.user
